@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="551.0" prefWidth="422.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #53d6e0;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox alignment="CENTER" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <Label text="Slide 1 tittle">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font size="33.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="95.0" prefWidth="136.0" text="Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong description" textAlignment="CENTER" wrapText="true">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="185.0" prefWidth="178.0" style="-fx-background-color: white; -fx-border-color: black;" text="???" textAlignment="CENTER">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Pane>
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="61.0" prefWidth="422.0">
+                           <children>
+                              <JFXButton contentDisplay="CENTER" prefHeight="50.0" prefWidth="50.0" ripplerFill="WHITE" style="-fx-background-color: #bababaaa; -fx-background-radius: 50;" text="&lt;" HBox.hgrow="ALWAYS">
+                                 <font>
+                                    <Font size="23.0" />
+                                 </font>
+                              </JFXButton>
+                              <Label alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" text="Label" textAlignment="CENTER" HBox.hgrow="ALWAYS" />
+                              <JFXButton contentDisplay="RIGHT" prefHeight="50.0" prefWidth="50.0" ripplerFill="WHITE" style="-fx-background-color: #bababaaa; -fx-background-radius: 50;" text="&gt;" textAlignment="RIGHT" HBox.hgrow="ALWAYS">
+                                 <font>
+                                    <Font size="23.0" />
+                                 </font>
+                              </JFXButton>
+                           </children>
+                           <padding>
+                              <Insets left="15.0" right="15.0" />
+                           </padding>
+                        </HBox>
+                     </children>
+                  </Pane>
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="77.0" layoutY="-55.0" prefHeight="551.0" prefWidth="422.0" style="-fx-background-color: #7ef271;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox alignment="CENTER" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <Label text="Slide 1 tittle">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font size="33.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="95.0" prefWidth="136.0" text="Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong description" textAlignment="CENTER" wrapText="true">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="185.0" prefWidth="178.0" style="-fx-background-color: white; -fx-border-color: black;" text="???" textAlignment="CENTER">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Pane>
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="61.0" prefWidth="422.0">
+                           <children>
+                              <JFXButton contentDisplay="CENTER" prefHeight="50.0" prefWidth="50.0" ripplerFill="WHITE" style="-fx-background-color: #bababaaa; -fx-background-radius: 50;" text="&lt;" HBox.hgrow="ALWAYS">
+                                 <font>
+                                    <Font size="23.0" />
+                                 </font>
+                              </JFXButton>
+                              <Label alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" text="Label" textAlignment="CENTER" HBox.hgrow="ALWAYS" />
+                              <JFXButton contentDisplay="RIGHT" prefHeight="50.0" prefWidth="50.0" ripplerFill="WHITE" style="-fx-background-color: #bababaaa; -fx-background-radius: 50;" text="&gt;" textAlignment="RIGHT" HBox.hgrow="ALWAYS">
+                                 <font>
+                                    <Font size="23.0" />
+                                 </font>
+                              </JFXButton>
+                           </children>
+                           <padding>
+                              <Insets left="15.0" right="15.0" />
+                           </padding>
+                        </HBox>
+                     </children>
+                  </Pane>
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="87.0" layoutY="-45.0" prefHeight="551.0" prefWidth="422.0" style="-fx-background-color: #ffdf44;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox alignment="CENTER" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <Label text="Slide 1 tittle">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font size="33.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="95.0" prefWidth="136.0" text="Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong description" textAlignment="CENTER" wrapText="true">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="185.0" prefWidth="178.0" style="-fx-background-color: white; -fx-border-color: black;" text="???" textAlignment="CENTER">
+                     <VBox.margin>
+                        <Insets bottom="15.0" />
+                     </VBox.margin>
+                  </Label>
+                  <Pane>
+                     <children>
+                        <HBox alignment="CENTER" prefHeight="61.0" prefWidth="422.0">
+                           <children>
+                              <JFXButton contentDisplay="CENTER" prefHeight="50.0" prefWidth="50.0" ripplerFill="WHITE" style="-fx-background-color: #bababaaa; -fx-background-radius: 50;" text="&lt;" HBox.hgrow="ALWAYS">
+                                 <font>
+                                    <Font size="23.0" />
+                                 </font>
+                              </JFXButton>
+                              <Label alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" text="Label" textAlignment="CENTER" HBox.hgrow="ALWAYS" />
+                              <JFXButton contentDisplay="RIGHT" prefHeight="50.0" prefWidth="50.0" ripplerFill="WHITE" style="-fx-background-color: #bababaaa; -fx-background-radius: 50;" text="&gt;" textAlignment="RIGHT" HBox.hgrow="ALWAYS">
+                                 <font>
+                                    <Font size="23.0" />
+                                 </font>
+                              </JFXButton>
+                           </children>
+                           <padding>
+                              <Insets left="15.0" right="15.0" />
+                           </padding>
+                        </HBox>
+                     </children>
+                  </Pane>
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
